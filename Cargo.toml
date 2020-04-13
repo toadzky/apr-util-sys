@@ -6,4 +6,4 @@ authors = ["Geoff Shannon <geoffpshannon@gmail.com>"]
 [dependencies]
 
 [build-dependencies]
-bindgen = "0.26.3"
+bindgen = "*"
